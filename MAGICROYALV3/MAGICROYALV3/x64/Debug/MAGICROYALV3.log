@@ -1,0 +1,5 @@
+﻿  MAGICROYALV3.cpp
+D:\KULIAH\SEMESTER 7\GAME PROGRAMMING\UTS\MAGICROYALV3\MAGICROYALV3\MAGICROYALV3.cpp(321,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\KULIAH\SEMESTER 7\GAME PROGRAMMING\UTS\MAGICROYALV3\MAGICROYALV3\MAGICROYALV3.cpp(324,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\KULIAH\SEMESTER 7\GAME PROGRAMMING\UTS\MAGICROYALV3\MAGICROYALV3\MAGICROYALV3.cpp(234): warning C4715: 'dodged': not all control paths return a value
+  MAGICROYALV3.vcxproj -> D:\KULIAH\SEMESTER 7\GAME PROGRAMMING\UTS\MAGICROYALV3\x64\Debug\MAGICROYALV3.exe
